@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+}
+
+.otherItems {
+    flex: 4;
+    background-color: aquamarine;
+}
