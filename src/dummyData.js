@@ -48,3 +48,60 @@ export const userData = [
         "Active Users": 7000,
     },
 ];
+
+export const userRows = [
+    {
+        id: 1,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+    {
+        id: 2,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+    {
+        id: 3,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+    {
+        id: 4,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+    {
+        id: 5,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+    {
+        id: 6,
+        username: "Kanye West",
+        avatar:
+            "https://images.pexels.com/photos/3586798/pexels-photo-3586798.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
+        email: "ye@gmail.com",
+        status: "active",
+        transaction: "$1000",
+    },
+];
