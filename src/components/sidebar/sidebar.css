@@ -25,6 +25,11 @@
 	list-style: none;
 }
 
+.link {
+	color: inherit;
+	text-decoration: none;
+}
+
 .sidebarListItem {
 	padding: 5px;
 	cursor: pointer;
